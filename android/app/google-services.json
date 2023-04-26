@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797643053711",
+    "project_id": "icapitaldemo",
+    "storage_bucket": "icapitaldemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797643053711:android:dcacedb85d92284d966efa",
+        "android_client_info": {
+          "package_name": "com.example.ic_coding_challange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797643053711-cme3if4a1e3vr63ln2mlnq2sap7hgh6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ic_coding_challange",
+            "certificate_hash": "5465087e555709665a8c9261e2f38e5b64d86ab2"
+          }
+        },
+        {
+          "client_id": "797643053711-29n2b2fsncp76r76t4qd5lb1sqi44ab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lBGjWdrDAaxHR_53NHiqvvzTAtGyeaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797643053711-29n2b2fsncp76r76t4qd5lb1sqi44ab3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
