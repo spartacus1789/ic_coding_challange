@@ -65,10 +65,11 @@ class _RegisterPageState extends State<RegisterPage> {
                       ),
                       Text(
                         "First Name",
-                        style: Theme.of(context)
-                            .textTheme
-                            .labelMedium!
-                            .copyWith(fontSize: 14),
+                         style:
+                              Theme.of(context).textTheme.labelMedium!.copyWith(
+                                    fontSize: 14,
+                                    color: Colors.grey,
+                                  ),
                       ),
                       const SizedBox(
                         height: 5,
@@ -85,10 +86,11 @@ class _RegisterPageState extends State<RegisterPage> {
                       ),
                       Text(
                         "Last Name",
-                        style: Theme.of(context)
-                            .textTheme
-                            .labelMedium!
-                            .copyWith(fontSize: 14),
+                         style:
+                              Theme.of(context).textTheme.labelMedium!.copyWith(
+                                    fontSize: 14,
+                                    color: Colors.grey,
+                                  ),
                       ),
                       const SizedBox(
                         height: 5,
@@ -105,10 +107,11 @@ class _RegisterPageState extends State<RegisterPage> {
                       ),
                       Text(
                         "Enter Password",
-                        style: Theme.of(context)
-                            .textTheme
-                            .labelMedium!
-                            .copyWith(fontSize: 14),
+                         style:
+                              Theme.of(context).textTheme.labelMedium!.copyWith(
+                                    fontSize: 14,
+                                    color: Colors.grey,
+                                  ),
                       ),
                       const SizedBox(
                         height: 5,
